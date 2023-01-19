@@ -1,0 +1,13 @@
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\bin\Debug\PluginManager.exe.config
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\bin\Debug\PluginManager.exe
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\bin\Debug\PluginManager.pdb
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.Form1.resources
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.Properties.Resources.resources
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.csproj.GenerateResource.cache
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.csproj.CoreCompileInputs.cache
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.exe
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.pdb
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\bin\Debug\VirtualConnectors.dll
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\bin\Debug\VirtualConnectors.pdb
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.csproj.CopyComplete
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.csprojAssemblyReference.cache
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.Properties.Resources.resources
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.csproj.GenerateResource.cache
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.csproj.CoreCompileInputs.cache
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\bin\Debug\RedConnector.dll
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\bin\Debug\RedConnector.pdb
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\bin\Debug\VirtualConnectors.dll
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\bin\Debug\VirtualConnectors.pdb
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.csproj.CopyComplete
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.dll
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.pdb
+C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginRosso\obj\Debug\RedConnector.panelForConnector.resources
