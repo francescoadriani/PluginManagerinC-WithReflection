@@ -60,3 +60,9 @@ C:\Users\sintec\Documents\Esempio di caricamento di plugin\VirtualConnectors\bin
 C:\Users\sintec\Documents\Esempio di caricamento di plugin\VirtualConnectors\obj\Debug\VirtualConnectors.csproj.CoreCompileInputs.cache
 C:\Users\sintec\Documents\Esempio di caricamento di plugin\VirtualConnectors\obj\Debug\VirtualConnectors.dll
 C:\Users\sintec\Documents\Esempio di caricamento di plugin\VirtualConnectors\obj\Debug\VirtualConnectors.pdb
+S:\Progetti su github\PluginManagerinC-WithReflection\VirtualConnectors\bin\Debug\VirtualConnectors.dll
+S:\Progetti su github\PluginManagerinC-WithReflection\VirtualConnectors\bin\Debug\VirtualConnectors.pdb
+S:\Progetti su github\PluginManagerinC-WithReflection\VirtualConnectors\obj\Debug\VirtualConnectors.csprojAssemblyReference.cache
+S:\Progetti su github\PluginManagerinC-WithReflection\VirtualConnectors\obj\Debug\VirtualConnectors.csproj.CoreCompileInputs.cache
+S:\Progetti su github\PluginManagerinC-WithReflection\VirtualConnectors\obj\Debug\VirtualConnectors.dll
+S:\Progetti su github\PluginManagerinC-WithReflection\VirtualConnectors\obj\Debug\VirtualConnectors.pdb

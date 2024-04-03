@@ -11,3 +11,16 @@ C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\bin\Deb
 C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\bin\Debug\VirtualConnectors.pdb
 C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.csproj.CopyComplete
 C:\Users\sintec\Documents\Esempio di caricamento di plugin\PluginManager\obj\Debug\PluginManager.csprojAssemblyReference.cache
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\bin\Debug\PluginManager.exe.config
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\bin\Debug\PluginManager.exe
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\bin\Debug\PluginManager.pdb
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\bin\Debug\VirtualConnectors.dll
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\bin\Debug\VirtualConnectors.pdb
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.csprojAssemblyReference.cache
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.Form1.resources
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.Properties.Resources.resources
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.csproj.GenerateResource.cache
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.csproj.CoreCompileInputs.cache
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.csproj.CopyComplete
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.exe
+S:\Progetti su github\PluginManagerinC-WithReflection\PluginManager\obj\Debug\PluginManager.pdb
